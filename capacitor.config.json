@@ -1,0 +1,8 @@
+{
+  "appId": "com.capacitorExercise.app",
+  "appName": "capacitorExercise",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "dist/capacitor-exercise",
+  "cordova": {}
+}
